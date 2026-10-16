@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">番茄时钟</string>
+    <string name="timer_mode_work">专注工作</string>
+    <string name="timer_mode_short_break">短暂休息</string>
+    <string name="timer_mode_long_break">深度休息</string>
+    <string name="action_start">开始</string>
+    <string name="action_pause">暂停</string>
+    <string name="action_resume">继续</string>
+    <string name="action_stop">停止</string>
+    <string name="action_skip">跳过</string>
+    <string name="action_reset">重置</string>
+    <string name="notification_channel_name">番茄钟计时器</string>
+    <string name="notification_channel_desc">显示当前番茄钟倒计时状态与快捷控制</string>
+    <string name="widget_name">番茄钟小部件</string>
+</resources>
